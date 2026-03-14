@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\HP\\Documents\\Modul3_103022400087\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CE227E2A-BBFC-4727-85C2-11CB05B87AE3}|Modul3_103022400087\\Modul3_103022400087.csproj|c:\\users\\hp\\documents\\modul3_103022400087\\modul3_103022400087\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{CE227E2A-BBFC-4727-85C2-11CB05B87AE3}|Modul3_103022400087\\Modul3_103022400087.csproj|solutionrelative:modul3_103022400087\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{2C8EA616-187B-5A5C-F46D-514E4B611DF8}|Modul3_103022400087\\Modul3_103022400087.csproj|c:\\users\\hp\\documents\\modul3_103022400087\\modul3_103022400087\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2C8EA616-187B-5A5C-F46D-514E4B611DF8}|Modul3_103022400087\\Modul3_103022400087.csproj|solutionrelative:modul3_103022400087\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C8EA616-187B-5A5C-F46D-514E4B611DF8}|Modul3_103022400087\\Modul3_103022400087.csproj|c:\\users\\hp\\documents\\modul3_103022400087\\modul3_103022400087\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C8EA616-187B-5A5C-F46D-514E4B611DF8}|Modul3_103022400087\\Modul3_103022400087.csproj|solutionrelative:modul3_103022400087\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C8EA616-187B-5A5C-F46D-514E4B611DF8}|Modul3_103022400087\\Modul3_103022400087.csproj|c:\\users\\hp\\documents\\modul3_103022400087\\modul3_103022400087\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C8EA616-187B-5A5C-F46D-514E4B611DF8}|Modul3_103022400087\\Modul3_103022400087.csproj|solutionrelative:modul3_103022400087\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -25,8 +33,34 @@
               "ToolTip": "C:\\Users\\HP\\Documents\\Modul3_103022400087\\Modul3_103022400087\\Form1.cs [Design]",
               "RelativeToolTip": "Modul3_103022400087\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-14T06:47:50.634Z",
+              "WhenOpened": "2026-03-14T07:07:46.79Z",
               "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\Modul3_103022400087\\Modul3_103022400087\\Form1.cs",
+              "RelativeDocumentMoniker": "Modul3_103022400087\\Form1.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\Modul3_103022400087\\Modul3_103022400087\\Form1.cs",
+              "RelativeToolTip": "Modul3_103022400087\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T07:08:44.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Documents\\Modul3_103022400087\\Modul3_103022400087\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Modul3_103022400087\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\HP\\Documents\\Modul3_103022400087\\Modul3_103022400087\\Form1.Designer.cs",
+              "RelativeToolTip": "Modul3_103022400087\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T07:07:53.381Z",
+              "EditorCaption": ""
             }
           ]
         }
