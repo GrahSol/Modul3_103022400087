@@ -28,11 +28,9 @@
         /// </summary>
         private void InitializeComponent()
         {
-            components = new System.ComponentModel.Container();
             comboBox1 = new ComboBox();
             textBox1 = new TextBox();
             textBox2 = new TextBox();
-            contextMenuStrip1 = new ContextMenuStrip(components);
             label1 = new Label();
             label2 = new Label();
             button1 = new Button();
@@ -49,8 +47,6 @@
             comboBox1.Name = "comboBox1";
             comboBox1.Size = new Size(151, 28);
             comboBox1.TabIndex = 0;
-            comboBox1.SelectedIndexChanged += label1_Click;
-            comboBox1.Click += label1_Click;
             // 
             // textBox1
             // 
@@ -65,12 +61,6 @@
             textBox2.Name = "textBox2";
             textBox2.Size = new Size(228, 27);
             textBox2.TabIndex = 2;
-            // 
-            // contextMenuStrip1
-            // 
-            contextMenuStrip1.ImageScalingSize = new Size(20, 20);
-            contextMenuStrip1.Name = "contextMenuStrip1";
-            contextMenuStrip1.Size = new Size(61, 4);
             // 
             // label1
             // 
@@ -99,6 +89,7 @@
             button1.TabIndex = 6;
             button1.Text = "Convert";
             button1.UseVisualStyleBackColor = true;
+            button1.Click += button1_Click;
             // 
             // comboBox2
             // 
@@ -108,6 +99,7 @@
             comboBox2.Name = "comboBox2";
             comboBox2.Size = new Size(151, 28);
             comboBox2.TabIndex = 7;
+            comboBox2.SelectedIndexChanged += comboBox2_SelectedIndexChanged;
             // 
             // label3
             // 
@@ -152,7 +144,6 @@
         private ComboBox comboBox1;
         private TextBox textBox1;
         private TextBox textBox2;
-        private ContextMenuStrip contextMenuStrip1;
         private Label label1;
         private Label label2;
         private Button button1;
